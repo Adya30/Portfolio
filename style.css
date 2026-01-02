@@ -429,3 +429,28 @@ footer p{
         width: 250px;
     }
 }
+
+@media screen and (max-width: 360px){
+    .box-icon{
+        width: 250px;
+    }
+
+    .project-asset{
+        width: 250px;
+        height: 380px;
+    }
+
+    .certificate-asset{
+        width: 250px;
+        height: 300px;
+    }
+
+    .contact-box{
+        width: 250px;
+        height: 520px;
+    }
+
+    .contact-box img{
+        width: 240px;
+    }
+}
