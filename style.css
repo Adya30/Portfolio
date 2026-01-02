@@ -432,7 +432,7 @@ footer p{
 
 @media screen and (max-width: 360px){
     .box-icon{
-        width: 250px;
+        width: 260px;
     }
 
     .project-asset{
@@ -451,6 +451,6 @@ footer p{
     }
 
     .contact-box img{
-        width: 230px;
+        width: 235px;
     }
 }
